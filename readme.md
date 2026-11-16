@@ -1,7 +1,8 @@
 # Isaac Rebirth No-DLC Kit v1.0
 
 > Item descriptions (EID Rebirth) + stat HUD (MissingHUD2) for **The Binding of Isaac: Rebirth v1.05 without DLC**.
-
+[EN]()
+[RU](https://github.com/andypowered/The-Binding-of-Isaac-Rebirth-HUD-Item-Description-/blob/main/readme_ru.md)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![Game](https://img.shields.io/badge/game-Rebirth%20v1.05%20(no%20DLC)-orange)
 ![Version](https://img.shields.io/badge/kit-v1.0-green)
