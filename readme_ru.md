@@ -7,7 +7,8 @@
 ![Версия](https://img.shields.io/badge/набор-v1.0-green)
 
 ---
-
+[EN](https://github.com/andypowered/The-Binding-of-Isaac-Rebirth-HUD-Item-Description-/blob/main/readme.md)
+[RU]()
 ## 📖 Что это
 
 Набор из двух независимых частей:
