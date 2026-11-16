@@ -8,7 +8,7 @@
 
 ---
 [EN](https://github.com/andypowered/The-Binding-of-Isaac-Rebirth-HUD-Item-Description-/blob/main/readme.md)
-[RU]()
+RU
 ## 📖 Что это
 
 Набор из двух независимых частей:
