@@ -7,8 +7,24 @@
 ![Version](https://img.shields.io/badge/kit-v1.0-green)
 
 ---
+# Language
+
 EN
 [RU](https://github.com/andypowered/The-Binding-of-Isaac-Rebirth-HUD-Item-Description-/blob/main/readme_ru.md)
+
+## Repository map
+
+```
+├── HUD/
+|   └── MissingHUD2.exe
+├── payload/
+├── INSTALL.bat 
+├── Install.ps1 
+├── UNINSTALL.bat
+├── Uninstall.ps1
+├── readme.md
+└── readme_ru.md       
+```
 
 ## 📖 What is this?
 
