@@ -7,8 +7,25 @@
 ![Версия](https://img.shields.io/badge/набор-v1.0-green)
 
 ---
+### Язык
 [EN](https://github.com/andypowered/The-Binding-of-Isaac-Rebirth-HUD-Item-Description-/blob/main/readme.md)
 RU
+
+
+## Repository map
+
+```
+├── HUD/
+|   └── MissingHUD2.exe
+├── payload/
+├── INSTALL.bat 
+├── Install.ps1 
+├── UNINSTALL.bat
+├── Uninstall.ps1
+├── readme.md
+└── readme_ru.md       
+```
+
 ## 📖 Что это
 
 Набор из двух независимых частей:
