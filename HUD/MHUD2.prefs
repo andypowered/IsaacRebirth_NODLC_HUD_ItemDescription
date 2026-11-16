@@ -1,0 +1,5 @@
+[General]
+show_tears_fired=false
+show_shot_height=false
+split_deal_chance=false
+stat_precision=2

@@ -1,0 +1,10 @@
+[2026-11-17 02:42:06 AM] [TID: 16472] [INFO ] ========== Missing HUD 2 v1.4.0 ==========
+[2026-11-17 02:42:07 AM] [TID: 16472] [INFO ] Starting DLL injection monitor thread.
+[2026-11-17 02:42:07 AM] [TID: 16472] [INFO ] GitHub reported latest version is v1.4.4 whilst running version is v1.4.0
+[2026-11-17 02:42:12 AM] [TID: 16472] [INFO ] Missing HUD 2 exiting with exit code 0.
+[2026-11-17 02:42:12 AM] [TID: 16472] [INFO ] Stopping DLL injection monitor thread.
+[2026-11-17 02:42:17 AM] [TID: 4572] [INFO ] ========== Missing HUD 2 v1.4.0 ==========
+[2026-11-17 02:42:17 AM] [TID: 4572] [INFO ] Starting DLL injection monitor thread.
+[2026-11-17 02:42:18 AM] [TID: 4572] [INFO ] GitHub reported latest version is v1.4.4 whilst running version is v1.4.0
+[2026-11-17 02:42:18 AM] [TID: 4572] [INFO ] Missing HUD 2 exiting with exit code 0.
+[2026-11-17 02:42:18 AM] [TID: 4572] [INFO ] Stopping DLL injection monitor thread.
